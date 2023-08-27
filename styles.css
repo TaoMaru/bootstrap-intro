@@ -1,0 +1,93 @@
+.carousel-card {
+    margin: 0 auto;
+    border: none;
+    min-height: 275px;
+    max-height: 275px;
+}
+
+.carousel-card-body {
+    background-color: #000;
+}
+
+.carousel-viewer-count {
+    font-size: .8rem;
+}
+
+.nav-icon {
+    width: 20px;
+    height: auto;
+}
+
+.menu-icon {
+    position: relative;
+    top: -4px;
+}
+
+.channel-icon-container {
+    border-radius: 50%;
+}
+.account-icon-container {
+    width: auto;
+    height: auto;
+    padding: 5px;
+}
+
+.account-icon {
+    width: 24px;
+    height: auto;
+}
+
+.channel-icon-container {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+.carousel-channel-icon-container {
+    width: 46px;
+    height: 46px;
+}
+
+.channel-icon {
+    width: 24px;
+    height: auto;
+}
+
+.carousel-channel-icon {
+    width: 42px;
+    height: auto;
+}
+
+.recommended-channel-item {
+    height: 50px;
+}
+
+.main-content-container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.card-img {
+    max-height: 170px;
+}
+
+.live-label {
+    width: 3rem;
+    text-align: center;
+}
+
+.preview-card-viewer-count {
+    position: relative;
+    margin-top: 6rem;
+}
+
+.category-card {
+    min-height: 250px;
+    border: none;
+}
